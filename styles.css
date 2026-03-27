@@ -898,19 +898,32 @@ html {
   }
   
   /* Hero name button mobile fixes */
-  .button {
-    --fs-size: 1.2em;
-    letter-spacing: 1px;
-    white-space: normal;
+  .hero h1 {
+    font-size: 1.5rem !important;
     line-height: 1.2;
+  }
+  
+  .button {
+    --fs-size: 1em;
+    letter-spacing: 0.5px;
+    white-space: normal;
+    line-height: 1.1;
     text-align: center;
+    max-width: 100%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    width: 100%;
+    padding: 0 10px;
   }
   
   .actual-text,
   .hover-text {
     white-space: normal;
     word-wrap: break-word;
+    overflow-wrap: break-word;
     hyphens: auto;
+    display: block;
+    width: 100%;
   }
 }
 
