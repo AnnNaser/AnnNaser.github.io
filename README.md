@@ -76,7 +76,7 @@ A modern, responsive personal portfolio website showcasing the work and professi
 
 ## 📸 Live Preview
 
-👉 [Live Demo](https://abhijeetbhale.github.io/Portfolio/)
+👉 [Live Demo](https://nabil.is-a.dev/second_site/)
 
 ## 📸 Screenshot
 
