@@ -80,7 +80,7 @@ A modern, responsive personal portfolio website showcasing the work and professi
 
 ## 📸 Screenshot
 
-![Portfolio Website](assets/professional image_Ann Naser Nabil.png)
+![Portfolio Website](assets/portfolio-ss.png)
 
 ---
 
