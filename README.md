@@ -1,10 +1,10 @@
 <div align="center">
 
-# 💼 Abhijeet's Portfolio Website
+# 💼 Ann Naser Nabil's Portfolio Website
 
 </div>
 
-A modern, responsive personal portfolio website showcasing my work as a full-stack web developer. Built with HTML, CSS, JavaScript, Bootstrap, GSAP, and integrated with a stunning animated particle background.
+A modern, responsive personal portfolio website showcasing the work and professional journey of Ann Naser Nabil. Built with HTML, CSS, JavaScript, Bootstrap, GSAP, and integrated with a stunning animated particle background.
 
 ---
 
@@ -18,7 +18,7 @@ A modern, responsive personal portfolio website showcasing my work as a full-sta
 - Stylish "View Projects" button with neon glow effect  
 - Smooth scroll and clean layout  
 - Custom cursor implementation
-- Animated download button for resume
+- Animated download button for resume (Ann Naser Nabil's professional resume)
 
 ### 📧 **Contact Form**
 - Functional contact form with Formspree integration
@@ -80,7 +80,7 @@ A modern, responsive personal portfolio website showcasing my work as a full-sta
 
 ## 📸 Screenshot
 
-![Portfolio Website](/mnt/data/wd/10_project/projects/Project_11/Portfolio-main/assets/portfolio-ss.png)
+![Portfolio Website](/mnt/data/wd/10_project/projects/Project_11/Portfolio-main/assets/professional image_Ann Naser Nabil.png)
 
 ---
 
@@ -88,7 +88,7 @@ A modern, responsive personal portfolio website showcasing my work as a full-sta
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/abhijeetBhale/Portfolio.git
+   git clone https://github.com/AnnNaser/AnnNaser.github.io.git
    cd Portfolio
    ```
 
@@ -104,7 +104,7 @@ A modern, responsive personal portfolio website showcasing my work as a full-sta
    ```
 
 3. **Customize**
-   - Update personal information in `index.html`
+   - Update personal information in `index.html` for Ann Naser Nabil
    - Modify colors in `styles.css`
    - Add your own projects and content
    - Update GitHub username in `script.js`
@@ -121,6 +121,9 @@ Portfolio/
 ├── manifest.json       # PWA manifest
 ├── sw.js              # Service Worker
 ├── assets/            # Images and media files
+│   ├── ANN NASER NABIL__RESUME.pdf
+│   ├── professional image_Ann Naser Nabil.png
+│   └── ...
 └── README.md          # Project documentation
 ```
 
@@ -165,8 +168,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Email**: abhijeetbhale7@gmail.com
-- **LinkedIn**: [Abhijeet Bhale](https://www.linkedin.com/in/abhijeetbhale7)
-- **GitHub**: [@abhijeetBhale](https://github.com/abhijeetBhale)
-- **Instagram**: [@isocyanideisgood](https://www.instagram.com/isocyanideisgood)
+- **Email**: [Ann Naser Nabil's Email]
+- **LinkedIn**: [Ann Naser Nabil](#)
+- **GitHub**: [@ann-naser-nabil](#)
+- **Resume**: [Download Resume](/mnt/data/wd/10_project/projects/Project_11/Portfolio-main/assets/ANN%20NASER%20NABIL__RESUME.pdf)
 
