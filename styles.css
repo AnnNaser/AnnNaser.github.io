@@ -896,6 +896,22 @@ html {
   .back2top-button:hover {
     width: 120px;
   }
+  
+  /* Hero name button mobile fixes */
+  .button {
+    --fs-size: 1.2em;
+    letter-spacing: 1px;
+    white-space: normal;
+    line-height: 1.2;
+    text-align: center;
+  }
+  
+  .actual-text,
+  .hover-text {
+    white-space: normal;
+    word-wrap: break-word;
+    hyphens: auto;
+  }
 }
 
 /* Form validation styles */
